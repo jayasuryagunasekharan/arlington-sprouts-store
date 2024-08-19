@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/arlington-sprouts-store/static/css/main.dc4d6ff2.css",
-    "main.js": "/arlington-sprouts-store/static/js/main.67a0e0d2.js",
+    "main.js": "/arlington-sprouts-store/static/js/main.23159641.js",
     "index.html": "/arlington-sprouts-store/index.html",
     "main.dc4d6ff2.css.map": "/arlington-sprouts-store/static/css/main.dc4d6ff2.css.map",
-    "main.67a0e0d2.js.map": "/arlington-sprouts-store/static/js/main.67a0e0d2.js.map"
+    "main.23159641.js.map": "/arlington-sprouts-store/static/js/main.23159641.js.map"
   },
   "entrypoints": [
     "static/css/main.dc4d6ff2.css",
-    "static/js/main.67a0e0d2.js"
+    "static/js/main.23159641.js"
   ]
 }
