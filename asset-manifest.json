@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/arlington-sprouts-store/static/css/main.f855e6bc.css",
-    "main.js": "/arlington-sprouts-store/static/js/main.bf0bf103.js",
-    "static/js/453.8ab44547.chunk.js": "/arlington-sprouts-store/static/js/453.8ab44547.chunk.js",
+    "main.css": "/arlington-sprouts-store/static/css/main.dc4d6ff2.css",
+    "main.js": "/arlington-sprouts-store/static/js/main.67a0e0d2.js",
     "index.html": "/arlington-sprouts-store/index.html",
-    "main.f855e6bc.css.map": "/arlington-sprouts-store/static/css/main.f855e6bc.css.map",
-    "main.bf0bf103.js.map": "/arlington-sprouts-store/static/js/main.bf0bf103.js.map",
-    "453.8ab44547.chunk.js.map": "/arlington-sprouts-store/static/js/453.8ab44547.chunk.js.map"
+    "main.dc4d6ff2.css.map": "/arlington-sprouts-store/static/css/main.dc4d6ff2.css.map",
+    "main.67a0e0d2.js.map": "/arlington-sprouts-store/static/js/main.67a0e0d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.bf0bf103.js"
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.67a0e0d2.js"
   ]
 }
