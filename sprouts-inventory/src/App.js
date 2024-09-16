@@ -27,7 +27,7 @@ function App() {
 
   async function fetchSprouts() {
     setLoading(true);
-    console.log('Fetching sprouts...');
+    // console.log('Fetching sprouts...');
     const { data, error } = await supabase
       .from('sprouts')
       .select('*')
